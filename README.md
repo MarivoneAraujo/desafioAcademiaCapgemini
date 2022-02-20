@@ -45,7 +45,7 @@ Clique no botão de run ▶️
 
 
 ## Desenvolvido por:
-* Marivone Araujo
+* Marivone Araujo em 02/2022.
 
 
 
