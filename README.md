@@ -44,7 +44,8 @@ Abra em sua IDE favorita (sugiro intellij)
 Clique no botão de run ▶️
 
 
-
+## Desenvolvido por:
+* Marivone Araujo
 
 
 
