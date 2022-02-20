@@ -1,7 +1,7 @@
 # Desafio de Programação - Academia Capgemini
 Repositório para a terceira etapa do processo de seleção para a Academia Capgemini 2022
 
-### 💻☕ Linguagem utilizada:
+## 💻☕ Linguagem utilizada:
 A seguinte tecnologia foi usada na construção do projeto:
 - [Java]
 
